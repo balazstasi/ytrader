@@ -1,7 +1,6 @@
 export const siteConfig = {
-  title: 'Next.js + Tailwind CSS + TypeScript Starter',
+  title: 'YTrader - Trade your cards the right way!',
   description:
-    'A starter for Next.js, Tailwind CSS, and TypeScript with Absolute Import, Seo, Link component, pre-configured with Husky',
-  /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  url: 'https://tsnext-tw.thcl.dev',
+    'This is a platform for trading your cards the right way! Share trade links, create trade collections, accept or refuse offers, and more!',
+  url: 'https://btasi.me/ytrader',
 };
