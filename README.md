@@ -55,7 +55,7 @@ You can also check all of the **details and demos** on my blog post:
 2. Using `create-next-app`
 
    ```bash
-   pnpm create next-app  -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter ts-pnpm
+   npm create next-app  -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter ts-npm
    ```
 
    If you still want to use **pages directory** (_is not actively maintained_) you can use this command
@@ -76,10 +76,10 @@ You can also check all of the **details and demos** on my blog post:
 
 ### 2. Install dependencies
 
-It is encouraged to use **pnpm** so the husky hooks can work properly.
+It is encouraged to use **npm** so the husky hooks can work properly.
 
 ```bash
-pnpm install
+npm install
 ```
 
 ### 3. Run the development server
@@ -87,7 +87,7 @@ pnpm install
 You can start the server using this command:
 
 ```bash
-pnpm dev
+npm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. You can start editing the page by modifying `src/pages/index.tsx`.
