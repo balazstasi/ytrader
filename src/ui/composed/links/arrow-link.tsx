@@ -2,8 +2,8 @@ import * as React from 'react';
 
 import { cn } from '@/lib/utils';
 
-import UnderlineLink from '@/components/links/UnderlineLink';
-import { UnstyledLinkProps } from '@/components/links/UnstyledLink';
+import UnderlineLink from '@/components/links/underline-link';
+import { UnstyledLinkProps } from '@/components/links/unstyled-link';
 
 type ArrowLinkProps<C extends React.ElementType> = {
   as?: C;
