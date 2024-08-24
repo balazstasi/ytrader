@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: 'Tasi Balazs',
-      url: 'https://btasi.me',
+      url: 'ytrader.vercel.app',
     },
   ],
 };
