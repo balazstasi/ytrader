@@ -4,6 +4,25 @@
 
 This changelog is manually generated and not accurate with the package.json, only to show the changes since the last release.
 
+## 1.0.0 (2024-08-24)
+
+
+### Features
+
+* added stores and small refactor ([492b7bb](https://github.com/balazstasi/ytrader/commit/492b7bb0fd00ce0ec4eee70fc53f0306cfb822cf))
+
+
+### Bug Fixes
+
+* change pnpm to npm ([4580dbe](https://github.com/balazstasi/ytrader/commit/4580dbeec6052b4c503d08b2c25b30d3fef00435))
+* changed urls from own  domain to temporary vercel one ([75bc50b](https://github.com/balazstasi/ytrader/commit/75bc50b0657cb946891e338cb1bc2e623ac032a4))
+* env variables etc starting patches ([2972782](https://github.com/balazstasi/ytrader/commit/2972782b85cba4a1c5361830958f045f56df3aac))
+* fix shadcn deps ([531e71a](https://github.com/balazstasi/ytrader/commit/531e71a1f0ecc619251c6d6da46618dba617707b))
+* lockfile change ([9dad5bc](https://github.com/balazstasi/ytrader/commit/9dad5bc9ce329d0b276f1fb4f9c8ac4c51c4350a))
+* removed pnpm reference lockfile ([ca3db7c](https://github.com/balazstasi/ytrader/commit/ca3db7c3fe50fd999b007cb52b25cc55a02a01ab))
+* test if github token pleases release-page-action ([da011e6](https://github.com/balazstasi/ytrader/commit/da011e61db353159ab7e5f36981771462864211c))
+* upgraded deps ([0c72666](https://github.com/balazstasi/ytrader/commit/0c72666b87a5dae9d478f85f10b346aa8f0da906))
+
 ## 1.0.0 - 2023-07-17
 
 ### New Features
@@ -428,4 +447,3 @@ Snippets: `reg`
 ```
 
 You should also use [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) extension.
-
